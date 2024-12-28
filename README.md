@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jiaxiong1206
 - 👀 I’m interested in data analysis, machine learning, and solving real-world problems with data.
-- 🌱 I’m currently learning SQL, python, data visualization,tableu and statistical analysis.
+- 🌱 I’m currently learning SQL, python, data visualization,tableau and statistical analysis.
 - 💞️ I’m looking to collaborate on data analysis projects, dashboards, and open-source data initiatives.
 - 📫 How to reach me:
   Email: jiaxiong.liang8@gmail.com
